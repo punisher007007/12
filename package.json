@@ -1,0 +1,12 @@
+{
+  "name": "rohith-portfolio",
+  "version": "1.0.0",
+  "description": "Interactive 3D Portfolio for Rohith K",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build required'"
+  },
+  "keywords": ["portfolio", "react", "developer", "threejs"],
+  "author": "Rohith K",
+  "license": "MIT"
+}
